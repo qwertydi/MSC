@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "bufferutil": "^1.2.1",
-    "ecstatic": "^1.4.0",
+    "ecstatic": "^4.1.4",
     "json-loader": "^0.5.4",
     "lodash": "^4.13.1",
     "noble": "github:monteslu/noble",
