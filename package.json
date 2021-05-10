@@ -27,7 +27,7 @@
     "bufferutil": "^1.2.1",
     "ecstatic": "^1.4.0",
     "json-loader": "^0.5.4",
-    "lodash": "^4.13.1",
+    "lodash": "^4.17.21",
     "noble": "github:monteslu/noble",
     "utf-8-validate": "^1.2.1",
     "webpack": "^1.12.11",
