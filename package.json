@@ -30,7 +30,7 @@
     "lodash": "^4.13.1",
     "noble": "github:monteslu/noble",
     "utf-8-validate": "^1.2.1",
-    "webpack": "^1.12.11",
+    "webpack": "^5.75.0",
     "ws": "^1.1.1"
   }
 }
